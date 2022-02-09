@@ -1,1 +1,2 @@
 linijka 1
+linijka 1 2 - branch 2
